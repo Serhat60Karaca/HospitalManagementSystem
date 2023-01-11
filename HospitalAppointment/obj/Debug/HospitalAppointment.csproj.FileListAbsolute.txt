@@ -1,0 +1,200 @@
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\HospitalAppointment.exe.config
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\HospitalAppointment.exe
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\HospitalAppointment.pdb
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.Form1.resources
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.patientlogin.resources
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.Properties.Resources.resources
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.exe
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.pdb
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.doctorlogin.resources
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.register.resources
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.patienthome.resources
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\Npgsql.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Buffers.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Memory.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Json.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Channels.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.ValueTuple.dll
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\Npgsql.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Buffers.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Memory.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Json.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Channels.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\bin\Debug\System.ValueTuple.xml
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.CopyComplete
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.appointment.resources
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.myappointments.resources
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.doctorhome.resources
+C:\Users\Emir\source\repos\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.prescription.resources
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\HospitalAppointment.exe.config
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\HospitalAppointment.exe
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\HospitalAppointment.pdb
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\Npgsql.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Buffers.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Memory.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Json.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Channels.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.ValueTuple.dll
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\Npgsql.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Buffers.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Memory.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Json.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Channels.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\bin\Debug\System.ValueTuple.xml
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.appointment.resources
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.doctorhome.resources
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.doctorlogin.resources
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.Form1.resources
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.myappointments.resources
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.patienthome.resources
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.patientlogin.resources
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.prescription.resources
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.Properties.Resources.resources
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.register.resources
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.exe
+C:\Users\lenovo\Desktop\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.pdb
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\HospitalAppointment.exe.config
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\HospitalAppointment.exe
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\HospitalAppointment.pdb
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\Npgsql.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Buffers.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Memory.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Json.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Channels.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.ValueTuple.dll
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\Npgsql.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Buffers.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Memory.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Json.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Channels.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\bin\Debug\System.ValueTuple.xml
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.appointment.resources
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.doctorhome.resources
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.doctorlogin.resources
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.Form1.resources
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.myappointments.resources
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.patienthome.resources
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.patientlogin.resources
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.prescription.resources
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.Properties.Resources.resources
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.register.resources
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.CopyComplete
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.exe
+C:\Users\Emir\Desktop\FORMAPPSONHAL\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.pdb
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\HospitalAppointment.exe.config
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\HospitalAppointment.exe
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\HospitalAppointment.pdb
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\Npgsql.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Buffers.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Memory.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Json.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Channels.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.ValueTuple.dll
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\Npgsql.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Buffers.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Memory.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Text.Json.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Channels.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\bin\Debug\System.ValueTuple.xml
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.appointment.resources
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.doctorhome.resources
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.doctorlogin.resources
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.Form1.resources
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.myappointments.resources
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.patienthome.resources
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.patientlogin.resources
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.prescription.resources
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.Properties.Resources.resources
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.register.resources
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.csproj.CopyComplete
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.exe
+C:\Users\Emir\Desktop\SERHATTAN GEL SON İNŞALLAHÜ ALLAHÜ TEALA\HospitalAppointment\HospitalAppointment\obj\Debug\HospitalAppointment.pdb
